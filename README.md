@@ -27,8 +27,13 @@ By destroying all of your opponent's infrastructure AND units, you win the game.
 Most units have HP, MV, Move Cost, ATK, Attack Cost, and Attack Range.
 
 HP - When HP is reduced to 0, the unit is destroyed.
+
 MV - How far the unit can move in one movement.
+
 Move Cost - The resource cost to initiate a unit's movement.
+
 ATK - The damage the unit will do.
+
 Attack Cost - The resource cost to attack.
-Attack Range - The range the unit can attack with. Most units will have a specially shaped attack range. A unit with a 5 attack range in the front needs to line up with the target, face the target, then attack. Units with these limited attack shapes are usually combersome, but powerful.
+
+Attack Range - The range the unit can attack with. Most units will have a specially shaped attack range. A unit with a 5 attack range in the front needs to line up with the target, face the target, then attack. Units with these limited attack shapes are usually cumbersome, but powerful.
