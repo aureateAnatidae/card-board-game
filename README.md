@@ -32,7 +32,7 @@ MV - How far the unit can move in one movement.
 
 Move Cost - The resource cost to initiate a unit's movement.
 
-ATK - The damage the unit will do.
+ATK - The damage the unit will inflict when attacking.
 
 Attack Cost - The resource cost to attack.
 
