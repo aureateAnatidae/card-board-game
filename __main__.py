@@ -5,10 +5,6 @@
 
 import pygame
 
-# Example file showing a basic pygame "game loop"
-import pygame
-
-# pygame setup
 pygame.init()
 screen = pygame.display.set_mode((1280, 720))
 clock = pygame.time.Clock()
@@ -19,10 +15,8 @@ while running:
         if event.type == pygame.QUIT:
             running = False
 
-    screen.fill("purple")
-
+    screen.fill("white")
     pygame.display.flip()
-
     clock.tick(60)
 
 pygame.quit()
