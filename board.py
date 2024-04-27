@@ -27,7 +27,7 @@ class Board():
 
     def __str__(self):
         """String representation of this Terrain() class."""
-        build_me = "\n".join(" ".join(str(terra) for terra in row) for row in self.board)
+        build_me = "\n".join(" ".join(repr(terra) for terra in row) for row in self.board)
         return build_me
 
 

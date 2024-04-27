@@ -21,6 +21,10 @@ class Terrain:
         """String representatin of this Terrain()"""
         return self.name
 
+    def __repr__(self):
+        """Full-detail representation of this Terrain()"""
+        return f"{self.name} MC={self.move_cost} E={{str(effect) for effect in self.effects}}"
+
     def get_cost(self):
         return self.move_cost
 

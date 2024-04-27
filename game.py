@@ -7,7 +7,7 @@ class Game:
         self, board_size: tuple = None, players: int = None, bases: list = None
     ):
         """
-        Game board class.
+        Game class handling logic and class interactions.
 
         Parameters
         ----------
