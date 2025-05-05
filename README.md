@@ -6,6 +6,7 @@ Card game in progress
 Any number of players can play. We'll start with 2 players.
 
 Energy - A resource that is analogous to time. Energy is used to move, attack, create, and act.
+
 Card - An item in your hand. Cards can represent units, actions, or anything you want.
 
 Unit - A piece on your board, usually able to attack, move, and becomes destroyed. Units have a cost to move, to attack, and to create.
